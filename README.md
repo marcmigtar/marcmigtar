@@ -30,11 +30,15 @@ I am particularly interested in
 - Docker
 - VSCode
 
+---
+
 ## 📚 Currently Learning
 I'm still learning and trying to improve in everything, but right now I'm focused on:
 - PyTorch
 - Basic MLOps concepts
 - Model optimization techniques
+
+---
 
 ## 📫 Contact
 
