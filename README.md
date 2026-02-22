@@ -1,8 +1,8 @@
 # Marc Emiliano Migallón Tárraga
 
-I am a Computer Engineering student at the University of Alicante.
+I'm a Computer Engineering student at the University of Alicante.
 
-I am particularly interested in
+I'm particularly interested in
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
